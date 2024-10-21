@@ -11,11 +11,6 @@ WARNING: This is a development server. Do not use it in a production deployment.
 python api-test.py
 ```
 ----------------------------------------------------------------------
-Ran 3 tests in 0.016s
+Ran 3 tests in 0.021s
 
-AssertionError: 404 != 200
-
-----------------------------------------------------------------------
-Ran 6 tests in 0.036s
-
-FAILED (failures=2)
+OK
